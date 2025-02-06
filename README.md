@@ -3,7 +3,7 @@
 I am a 3rd-year student of Informatics and Computing Engineering at FEUP. 
 
 
-### Most Proficient Technologies
+## Most Proficient Technologies
 
 **Programming languages** :     [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/) [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 
