@@ -20,6 +20,9 @@ I am a 3rd-year student of Informatics and Computing Engineering at FEUP.
 | LBAW | [GlintHub](https://github.com/Juliosantos04/LBAW) |In this project, we built a social platform that enables users to engage and connect through multiple channels and features.| 16.80 | HTML, CSS, PHP, Javascript, Laravel, PostgreSQL |
 | FSI | [Logbooks and CTFs](https://github.com/Juliosantos04/FSI) |This repository includes all the logbooks and CTF challenges completed throughout the semester| 20.00 | _ |
 | MPSAC | [Control System-based application](https://github.com/Juliosantos04/MPSAC) |This project is control system-base application that is centered on energy optimization and use supervised learning. | 19.00 | Python, Jupyter Notebook |
+| LCOM | [Space Invaders](https://github.com/Juliosantos04/LCOM) | Developed low-level drivers in C to support a Space Invaders-style game, handling input (buttons), graphics rendering (double buffering), timers, and collision detection. The system runs at 60 FPS using a state machine for game logic. | 14.80 | C |
+| IA | [Wood Block](https://github.com/Juliosantos04/IA_1) | This AI-driven woodblock puzzle solver supports various search algorithms—Greedy Best-First, A*, BFS, DFS, and Iterative Deepening—and includes multi-level grids for testing and performance comparison. | 18.50 | Python |
+| IA | [Loan Approval Prediction](https://github.com/Juliosantos04/IA_2) | Developed a binary classification model to predict loan default risk (repaid vs. defaulted) using an imbalanced dataset. Trained and tested the model to support improved lending decisions. | 18.00 | Jupyter Notebook, Python |
 
 
 
