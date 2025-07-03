@@ -23,6 +23,12 @@ I am a 3rd-year student of Informatics and Computing Engineering at FEUP.
 | LCOM | [Space Invaders](https://github.com/Juliosantos04/LCOM) | Developed low-level drivers in C to support a Space Invaders-style game, handling input (buttons), graphics rendering (double buffering), timers, and collision detection. The system runs at 60 FPS using a state machine for game logic. | 14.80 | C |
 | IA | [Wood Block](https://github.com/Juliosantos04/IA_1) | This AI-driven woodblock puzzle solver supports various search algorithms—Greedy Best-First, A*, BFS, DFS, and Iterative Deepening—and includes multi-level grids for testing and performance comparison. | 18.50 | Python |
 | IA | [Loan Approval Prediction](https://github.com/Juliosantos04/IA_2) | Developed a binary classification model to predict loan default risk (repaid vs. defaulted) using an imbalanced dataset. Trained and tested the model to support improved lending decisions. | 18.00 | Jupyter Notebook, Python |
+| CPD | [Parallel Computation](https://github.com/Juliosantos04/CPD_1) | Studied the behavior of parallel computation in a matrix multiplication problem using Java and C++. Optimized performance using OpenMP for parallelization and employed PAPI (Performance API) to measure and analyze hardware performance metrics, such as cache misses and FLOPs. | 16.70 | C++, Java |
+| CPD | [Distributed Systems](https://github.com/Juliosantos04/CPD_2) | Developed a secure, concurrent, and fault-tolerant Java-based chatroom system with integrated large language model (LLM) capabilities for enhanced user interaction and intelligent message processing. | 18.00 | Java |
+| COMP | [Java Compiler](https://github.com/Juliosantos04/COMP#) | Developed a working compiler for a simplified Java-like language targeting the JVM via Jasmin. Extended functionality from a base version, focusing on parsing, code generation, and language design. | 17.00 | Java |
+| CG | [3D Graphics Project](https://github.com/Juliosantos04/CG) | Built an interactive 3D scene with shaders, animations, and user controls. Features include a fire station with a heliport, controllable helicopter, moving clouds, lake, forest, and grass terrain—extending a base 400x400 scene with custom elements. | 19.00 | Javascript |
+| PI | [Internship Report](https://github.com/Juliosantos04/projeto-integrador) | Augmented Reality application for monitoring offshore wind farms project report | _ | _ |
+ 
 
 
 
