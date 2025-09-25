@@ -1,6 +1,6 @@
 # Hi, I'm Júlio Santos 👋
 
-I am a 3rd-year student of Informatics and Computing Engineering at FEUP. 
+I am a Master student of Informatics and Computing Engineering at FEUP. 
 
 ## FEUP Projects
 | UC | Name | Description | Grade | Teck Stack |
