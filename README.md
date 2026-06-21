@@ -20,7 +20,7 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 
 
 
-## UX/UI & Human-Centred Design
+## UX/UI & Human-Centered Design
 
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
