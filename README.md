@@ -20,17 +20,37 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 
 
 
-## Most Proficient Technologies
+## UX/UI & Human-Centred Design
 
-**Programming languages** :     [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/) [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+[![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
+[![Maze](https://img.shields.io/badge/-Maze-7B61FF?logoColor=white)](https://maze.co/)
 
-**Web Development** :     [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+User-Centred Design • Usability Testing • Heuristic Evaluation • Prototyping
 
-**Frameworks** :  
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)  [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)  [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+## Frontend & Interactive Development
 
-**Databases** :      [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/index.html) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Programming & Software Engineering
+
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
+## Databases & Backend
+
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
   
 <!--
 - 🔭 I’m currently working on a Social Network and an App User Interface
