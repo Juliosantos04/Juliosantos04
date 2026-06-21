@@ -7,16 +7,15 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 |----|------|-------------|-------|------------|
 | LDTS | [Icy Harvest](https://github.com/Juliosantos04/LDTS) |This project is a game heavily inspired by Nitrome’s arcade classic Bad Ice Cream. Players control a character with the power to create and break ice in straight lines, navigating through five unique levels to collect fruit while dodging enemies.| 14.60 | Java |
 | ES | [BiteQ](https://github.com/Juliosantos04/ES) |This project aimed to create a terminal application to analyze, visualize, and manage schedules within a restaurant setting.| 17.40 | Dart, FlutterSDK, Firebase |
-| DA | [Water System Manager](https://github.com/Juliosantos04/DA_1) |This project was focusing on building a terminal-based application to analyze and interpret a water distribution network using graph search algorithms. The goal was to apply various algorithms to extract and present the most efficient and relevant information about the network.| 19.55 | C++ |
-| RC | [Serial Port File Transmission](https://github.com/Juliosantos04/RC_1) |This project involved implementing a Data Link Layer protocol to enable file transfer between two computers connected via a serial port| 17.00 | C |
-| RC | [Building a Network and Using FTP](https://github.com/Juliosantos04/RC_2) |This project can be broken down into two main tasks: setting up and configuring a computer network, and developing an FTP download program to facilitate file transfers over the network.| 17.00 | C |
-| LBAW | [GlintHub](https://github.com/Juliosantos04/LBAW) |In this project, we built a social platform that enables users to engage and connect through multiple channels and features.| 16.80 | HTML, CSS, PHP, Javascript, Laravel, PostgreSQL |
+| LTW | [Smartphone Shop](https://github.com/Juliosantos04/ES) | This project aimed to build an online platform for buying and selling used smartphones.| 15.50 | HTML, CSS, PHP, Javascript, SQLite |
+| LBAW | [GlintHub](https://github.com/Juliosantos04/LBAW) | In this project, we built a social platform that enables users to engage and connect through multiple channels and features.| 16.80 | HTML, CSS, PHP, Javascript, Laravel, PostgreSQL |
 | LCOM | [Space Invaders](https://github.com/Juliosantos04/LCOM) | Developed low-level drivers in C to support a Space Invaders-style game, handling input (buttons), graphics rendering (double buffering), timers, and collision detection. The system runs at 60 FPS using a state machine for game logic. | 14.80 | C |
-| CPD | [Parallel Computation](https://github.com/Juliosantos04/CPD_1) | Studied the behavior of parallel computation in a matrix multiplication problem using Java and C++. Optimized performance using OpenMP for parallelization and employed PAPI (Performance API) to measure and analyze hardware performance metrics, such as cache misses and FLOPs. | 16.70 | C++, Java, OpenMP |
+| CG | [3D Graphics Project](https://github.com/Juliosantos04/CG) | Built an interactive 3D scene with shaders, animations, and user controls. Features include a fire station with a heliport, controllable helicopter, moving clouds, lake, forest, and grass terrain—extending a base 400x400 scene. | 19.00 | Javascript, WebGL |
 | PI | [Internship Report](https://github.com/Juliosantos04/projeto-integrador) | Report of augmented reality application for monitoring offshore wind farms | _ | TeX |
-| AC | [Predictions model for WNBA tournament](https://github.com/Juliosantos04/AC) |This project involved building a machine learning model to predict outcomes in the WNBA tournament, using historical data and performance metrics of teams and players.| 18.10 | Python, Jupyter Notebook |
 | SDLE | [Supermarket List offline-first application](https://github.com/Juliosantos04/SDLE) |This project involved building an offline-first application for managing supermarket lists, using a combination of HTML, CSS, JavaScript, and local storage to ensure functionality without internet access. It uses CRDTs to handle data synchronization and conflict resolution and provides a user-friendly interface for creating, editing, and sharing shopping lists.| 16.80 | HTML, CSS, JavaScript |
 | DSLE | [Map Search page for a portuguese e-commerce website](https://github.com/Juliosantos04/DSLE) |This project involved building a map search page for a Portuguese e-commerce website, using React and FastAPI to display store locations and provide an interactive map interface for users.| 17.10 | Python, Javascript |
+| SGI  | [Interactive aquarium application](https://github.com/Juliosantos04/SGI) | This project involved building an interactive aquarium application using Three.js and WebGL, featuring a 3D underwater environment with animated fish, interactive controls, and dynamic lighting effects. | 17.70 | JavaScript, Three.js, WebGL |
+
 
 
 
@@ -25,7 +24,6 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
-[![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)](https://www.opengl.org/)
 [![Maze](https://img.shields.io/badge/-Maze-7B61FF?logoColor=white)](https://maze.co/)
 
 ## Frontend & Interactive Development
