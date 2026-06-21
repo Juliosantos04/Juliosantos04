@@ -28,8 +28,6 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Maze](https://img.shields.io/badge/-Maze-7B61FF?logoColor=white)](https://maze.co/)
 
-User-Centred Design • Usability Testing • Heuristic Evaluation • Prototyping
-
 ## Frontend & Interactive Development
 
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
