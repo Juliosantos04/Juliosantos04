@@ -23,15 +23,16 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 ## UX/UI & Human-Centered Design
 
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
+[![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)](https://www.opengl.org/)
 [![Maze](https://img.shields.io/badge/-Maze-7B61FF?logoColor=white)](https://maze.co/)
 
 ## Frontend & Interactive Development
 
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
