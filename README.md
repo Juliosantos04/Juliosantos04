@@ -15,24 +15,22 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 | **LGP** | Spacey                                                                   | This project is a mobile platform that automatically assigns hybrid-office desks by team cluster and attendance policy, guaranteeing every employee a seat while keeping teams physically together. It replaces manual desk-booking with a "zero-touch" rules engine, plus interactive floor maps and admin analytics for occupancy management. | --    | Dart, FlutterSDK            |     |
 
 
+## Technical Skills
 
+### Frontend & Interactive Development
 
-## 3D computer graphics
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 3D Graphics & Creative Technologies
 
 [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 [![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
 
-
-## Frontend & Interactive Development
-
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-## Programming & Software Engineering
+### Programming Languages
 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
@@ -41,10 +39,11 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-## Databases & Backend
+### Databases & Backend
 
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/)
+
   
 <!--
 - 🔭 I’m currently working on a Social Network and an App User Interface
