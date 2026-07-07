@@ -3,7 +3,7 @@
 I am a Master student of Informatics and Computing Engineering at FEUP. 
 
 ## Some FEUP Projects
-| UC | Name | Description | Grade | Teck Stack |
+| UC | Name | Description | Grade | Tech Stack |
 |----|------|-------------|-------|------------|
 | **LDTS** | [Icy Harvest](https://github.com/Juliosantos04/LDTS)                     | This project is a game heavily inspired by Nitrome’s arcade classic Bad Ice Cream. Players control a character with the power to create and break ice in straight lines, navigating through five unique levels to collect fruit while dodging enemies. | 14.60 | Java                       |
 | **ES**   | [BiteQ](https://github.com/Juliosantos04/ES)                             | This project aimed to create a terminal application to analyze, visualize, and manage schedules within a restaurant setting.                                                                                                                           | 17.40 | Dart, FlutterSDK, Firebase |
