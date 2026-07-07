@@ -35,7 +35,6 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 ## Programming & Software Engineering
 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
