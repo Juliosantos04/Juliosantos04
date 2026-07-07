@@ -5,25 +5,24 @@ I am a Master student of Informatics and Computing Engineering at FEUP.
 ## Some FEUP Projects
 | UC | Name | Description | Grade | Teck Stack |
 |----|------|-------------|-------|------------|
-| LDTS | [Icy Harvest](https://github.com/Juliosantos04/LDTS) |This project is a game heavily inspired by Nitrome’s arcade classic Bad Ice Cream. Players control a character with the power to create and break ice in straight lines, navigating through five unique levels to collect fruit while dodging enemies.| 14.60 | Java |
-| ES | [BiteQ](https://github.com/Juliosantos04/ES) |This project aimed to create a terminal application to analyze, visualize, and manage schedules within a restaurant setting.| 17.40 | Dart, FlutterSDK, Firebase |
-| LTW | [Smartphone Shop](https://github.com/Juliosantos04/ES) | This project aimed to build an online platform for buying and selling used smartphones.| 15.50 | HTML, CSS, Javascript, SQLite |
-| LBAW | [GlintHub](https://github.com/Juliosantos04/LBAW) | In this project, we built a social platform that enables users to engage and connect through multiple channels and features.| 16.80 | HTML, CSS, Javascript, PostgreSQL |
-| LCOM | [Space Invaders](https://github.com/Juliosantos04/LCOM) | Developed low-level drivers in C to support a Space Invaders-style game, handling input (buttons), graphics rendering (double buffering), timers, and collision detection. The system runs at 60 FPS using a state machine for game logic. | 14.80 | C |
-| CG | [3D Graphics Project](https://github.com/Juliosantos04/CG) | Built an interactive 3D scene with shaders, animations, and user controls. Features include a fire station with a heliport, controllable helicopter, moving clouds, lake, forest, and grass terrain—extending a base 400x400 scene. | 19.00 | Javascript, WebGL |
-| PI | [Internship Report](https://github.com/Juliosantos04/projeto-integrador) | Report of augmented reality application for monitoring offshore wind farms | _ | TeX |
-| SDLE | [Supermarket List offline-first application](https://github.com/Juliosantos04/SDLE) |This project involved building an offline-first application for managing supermarket lists, using a combination of HTML, CSS, JavaScript, and local storage to ensure functionality without internet access. It uses CRDTs to handle data synchronization and conflict resolution and provides a user-friendly interface for creating, editing, and sharing shopping lists.| 16.80 | HTML, CSS, JavaScript |
-| DSLE | [Map Search page for a portuguese e-commerce website](https://github.com/Juliosantos04/DSLE) |This project involved building a map search page for a Portuguese e-commerce website, using React and FastAPI to display store locations and provide an interactive map interface for users.| 17.10 | Python, Javascript |
-| SGI  | [Interactive aquarium application](https://github.com/Juliosantos04/SGI) | This project involved building an interactive aquarium application using Three.js and WebGL, featuring a 3D underwater environment with animated fish, interactive controls, and dynamic lighting effects. | 17.70 | JavaScript, Three.js, WebGL |
+| **LDTS** | [Icy Harvest](https://github.com/Juliosantos04/LDTS)                     | This project is a game heavily inspired by Nitrome’s arcade classic Bad Ice Cream. Players control a character with the power to create and break ice in straight lines, navigating through five unique levels to collect fruit while dodging enemies. | 14.60 | Java                       |
+| **ES**   | [BiteQ](https://github.com/Juliosantos04/ES)                             | This project aimed to create a terminal application to analyze, visualize, and manage schedules within a restaurant setting.                                                                                                                           | 17.40 | Dart, FlutterSDK, Firebase |
+| **IPC**  | EnergyTracker                                                            | In this project, I applied skills in user research and analysis (questionnaires, PACT analysis, personas), interaction design (task definition, wireframes, and wireflows), and usability evaluation (conducting and analyzing heuristic evaluations). | 16.40 | Figma, Maze                |
+| **CG**   | [3D Graphics Project](https://github.com/Juliosantos04/CG)               | In this project, I built an interactive 3D scene with shaders, animations, and user controls. Features include a fire station with a heliport, controllable helicopter, moving clouds, lake, forest, and grass terrain—extending a base 400x400 scene. | 19.00 | Javascript, OpenGL         |
+| **PI**   | [Internship Report](https://github.com/Juliosantos04/projeto-integrador) | Report of augmented reality application for monitoring offshore wind farms                                                                                                                                                                             | 18.00 | TeX                        |
+| **SGI** | [Interactive aquarium application](https://github.com/Juliosantos04/SGI) | This project involved building an interactive aquarium application using Three.js and WebGL, featuring a 3D underwater environment with animated fish, interactive controls, and dynamic lighting effects.                                                                                                                                      | 17.70 | JavaScript, Three.js, WebGL |     |
+| **CPM** | SelfRival                                                                | This project is a GPS running app where users race against their own past performance on saved routes, using ghost-run visualizations, voice coaching, and step tracking.                                                                                                                                                                       | 19.20 | Dart, FlutterSDK, Firebase  |     |
+| **LGP** | Spacey                                                                   | This project is a mobile platform that automatically assigns hybrid-office desks by team cluster and attendance policy, guaranteeing every employee a seat while keeping teams physically together. It replaces manual desk-booking with a "zero-touch" rules engine, plus interactive floor maps and admin analytics for occupancy management. | --    | Dart, FlutterSDK            |     |
 
 
 
-## UX/UI & Human-Centered Design
 
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+## 3D computer graphics
+
 [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+[![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)](https://www.blender.org/)
-[![Maze](https://img.shields.io/badge/-Maze-7B61FF?logoColor=white)](https://maze.co/)
+
 
 ## Frontend & Interactive Development
 
